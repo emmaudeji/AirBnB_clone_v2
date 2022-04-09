@@ -1,4 +1,4 @@
-9#!/usr/bin/python3
+#!/usr/bin/python3
 """
   a script that starts a Flask web application
   web application is listening on 0.0.0.0, port 5000
